@@ -1,0 +1,21 @@
+body {
+    font-family: Verdana;
+    text-align: center;
+}
+
+#myButton {
+    font-size: 48px;
+    padding: 5px 25px;
+    border-radius: 5px;
+    color: white;
+    background-color: darkslateblue;
+}
+
+.myLabels {
+    font-size: 48px;
+}
+
+#divLabels {
+    display: flex;
+    justify-content: space-evenly;
+}
